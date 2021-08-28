@@ -1,20 +1,26 @@
 {
   "files": {
-    "main.css": "/Online-Shop/static/css/main.05d598bb.chunk.css",
-    "main.js": "/Online-Shop/static/js/main.4d3b548a.chunk.js",
-    "main.js.map": "/Online-Shop/static/js/main.4d3b548a.chunk.js.map",
-    "runtime-main.js": "/Online-Shop/static/js/runtime-main.e6ebb2d9.js",
-    "runtime-main.js.map": "/Online-Shop/static/js/runtime-main.e6ebb2d9.js.map",
-    "static/js/2.3dc65e37.chunk.js": "/Online-Shop/static/js/2.3dc65e37.chunk.js",
-    "static/js/2.3dc65e37.chunk.js.map": "/Online-Shop/static/js/2.3dc65e37.chunk.js.map",
-    "index.html": "/Online-Shop/index.html",
-    "static/css/main.05d598bb.chunk.css.map": "/Online-Shop/static/css/main.05d598bb.chunk.css.map",
-    "static/js/2.3dc65e37.chunk.js.LICENSE.txt": "/Online-Shop/static/js/2.3dc65e37.chunk.js.LICENSE.txt"
+    "main.css": "/Car-Rental-Website/static/css/main.6ca59d46.chunk.css",
+    "main.js": "/Car-Rental-Website/static/js/main.7c2d427f.chunk.js",
+    "main.js.map": "/Car-Rental-Website/static/js/main.7c2d427f.chunk.js.map",
+    "runtime-main.js": "/Car-Rental-Website/static/js/runtime-main.e92cfeea.js",
+    "runtime-main.js.map": "/Car-Rental-Website/static/js/runtime-main.e92cfeea.js.map",
+    "static/css/2.43f79378.chunk.css": "/Car-Rental-Website/static/css/2.43f79378.chunk.css",
+    "static/js/2.cd3c983a.chunk.js": "/Car-Rental-Website/static/js/2.cd3c983a.chunk.js",
+    "static/js/2.cd3c983a.chunk.js.map": "/Car-Rental-Website/static/js/2.cd3c983a.chunk.js.map",
+    "index.html": "/Car-Rental-Website/index.html",
+    "static/css/2.43f79378.chunk.css.map": "/Car-Rental-Website/static/css/2.43f79378.chunk.css.map",
+    "static/css/main.6ca59d46.chunk.css.map": "/Car-Rental-Website/static/css/main.6ca59d46.chunk.css.map",
+    "static/js/2.cd3c983a.chunk.js.LICENSE.txt": "/Car-Rental-Website/static/js/2.cd3c983a.chunk.js.LICENSE.txt",
+    "static/media/blob.f2195ec6.svg": "/Car-Rental-Website/static/media/blob.f2195ec6.svg",
+    "static/media/jeep.18461d13.png": "/Car-Rental-Website/static/media/jeep.18461d13.png",
+    "static/media/mclaren-orange-big.46e3c615.png": "/Car-Rental-Website/static/media/mclaren-orange-big.46e3c615.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e6ebb2d9.js",
-    "static/js/2.3dc65e37.chunk.js",
-    "static/css/main.05d598bb.chunk.css",
-    "static/js/main.4d3b548a.chunk.js"
+    "static/js/runtime-main.e92cfeea.js",
+    "static/css/2.43f79378.chunk.css",
+    "static/js/2.cd3c983a.chunk.js",
+    "static/css/main.6ca59d46.chunk.css",
+    "static/js/main.7c2d427f.chunk.js"
   ]
 }
